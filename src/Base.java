@@ -11,7 +11,7 @@ public class Base {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MainChooseGui basewin = new MainChooseGui();
-		//Close frame.
+		//Close frame
 		basewin.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		basewin.setVisible(true);
 	
